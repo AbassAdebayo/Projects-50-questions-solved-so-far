@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\bin\Debug\net5.0\Question9.exe
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\bin\Debug\net5.0\Question9.deps.json
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\bin\Debug\net5.0\Question9.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\bin\Debug\net5.0\Question9.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\bin\Debug\net5.0\Question9.dll
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\bin\Debug\net5.0\ref\Question9.dll
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\bin\Debug\net5.0\Question9.pdb
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\obj\Debug\net5.0\Question9.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\obj\Debug\net5.0\Question9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\obj\Debug\net5.0\Question9.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\obj\Debug\net5.0\Question9.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\obj\Debug\net5.0\Question9.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\obj\Debug\net5.0\Question9.dll
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\obj\Debug\net5.0\ref\Question9.dll
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\obj\Debug\net5.0\Question9.pdb
+C:\Users\Dejik Concepts\Desktop\Nov14th2021\Chpt5\Question9\Question9\obj\Debug\net5.0\Question9.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\obj\Debug\net5.0\Question 9.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\obj\Debug\net5.0\Question 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\obj\Debug\net5.0\Question 9.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\obj\Debug\net5.0\Question 9.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\obj\Debug\net5.0\Question 9.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\bin\Debug\net5.0\Question 9.exe
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\bin\Debug\net5.0\Question 9.deps.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\bin\Debug\net5.0\Question 9.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\bin\Debug\net5.0\Question 9.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\bin\Debug\net5.0\Question 9.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\bin\Debug\net5.0\ref\Question 9.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\bin\Debug\net5.0\Question 9.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\obj\Debug\net5.0\Question 9.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\obj\Debug\net5.0\ref\Question 9.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\obj\Debug\net5.0\Question 9.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 9\obj\Debug\net5.0\Question 9.genruntimeconfig.cache

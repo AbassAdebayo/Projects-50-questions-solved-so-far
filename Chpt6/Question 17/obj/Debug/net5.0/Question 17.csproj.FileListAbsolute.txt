@@ -1,0 +1,32 @@
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.exe
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.deps.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\bin\Debug\net5.0\ref\Question 17.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\obj\Debug\net5.0\ref\Question 17.dll
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.pdb
+C:\Users\ADMIN\Desktop\Code Leaners Hub\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.genruntimeconfig.cache
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.exe
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.deps.json
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.dll
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\bin\Debug\net5.0\ref\Question 17.dll
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\bin\Debug\net5.0\Question 17.pdb
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.dll
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\obj\Debug\net5.0\ref\Question 17.dll
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.pdb
+C:\Users\Dejik Concepts\Desktop\Backup\Chapter 6 textbook\Question 17\obj\Debug\net5.0\Question 17.genruntimeconfig.cache
