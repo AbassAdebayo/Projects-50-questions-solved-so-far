@@ -1,0 +1,33 @@
+﻿@model MyBlog.DTOS.PostDto
+
+
+
+
+<dt class="col-sm-2">
+    Title:
+</dt>
+<h3>
+    <b>
+        <dd class="col-sm-10">
+            @Model.Title
+        </dd>
+    </b>
+    
+    
+<dt class="col-sm-2">
+        PostPhoto:
+    </dt>
+<dd class="col-sm-10">
+    <img class="card-img" style="height:500px; width:90%" src="~/PostPhoto/@Model.PostPhoto"/>
+</dd>
+</h3>
+    <dt class="col-sm-2">
+        Content:
+    </dt>
+<dd class="col-sm-10">
+    @Model.Content
+</dd>
+
+
+
+<button style="background-color:darkblue;"><a asp-action="Index">Back to List</a></button>

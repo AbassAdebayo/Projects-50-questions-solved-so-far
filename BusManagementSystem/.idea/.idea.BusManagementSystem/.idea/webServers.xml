@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cce8b2bc-d1f7-4a83-b4de-1d5489b16e9a" name="https://github.com/DefinedCodes/Projects-50-questions-solved-so-far.git" url="https://github.com/DefinedCodes/Projects-50-questions-solved-so-far.git">
+        <fileTransfer mountedRoot="C:\Users\Dejik Concepts\Desktop\Test\BusManagementSystem\BusManagementSystem" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

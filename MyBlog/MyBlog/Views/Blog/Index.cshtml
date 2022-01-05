@@ -1,0 +1,60 @@
+﻿@model IEnumerable<MyBlog.DTOS.BlogDto>
+
+<div class="card-header" style="background-color:midnightblue;">
+    <div class="card-title">
+        <h1 class="text-center">Blogs</h1>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Url)
+        </th>
+        
+
+
+
+
+        <th>
+            Update
+        </th>
+        <th>
+            Details
+        </th>
+        <th>
+            Delete
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var blog in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => blog.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => blog.Url)
+            </td>
+            
+            
+            <td>
+                <a asp-action="Update" asp-route-id="@blog.Id">Update</a>
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@blog.Id">Details</a>
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@blog.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<button style="background-color:wheat;"><a asp-controller="Blog" asp-action="Create">Add Blog</a> </button>

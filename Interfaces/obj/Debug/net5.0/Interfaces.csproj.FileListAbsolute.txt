@@ -1,0 +1,5 @@
+C:\Users\Dejik Concepts\Desktop\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache

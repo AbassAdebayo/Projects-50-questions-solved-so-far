@@ -1,0 +1,6 @@
+C:\Users\Dejik Concepts\RiderProjects\GRADE\GRADE\bin\Debug\GRADE.exe
+C:\Users\Dejik Concepts\RiderProjects\GRADE\GRADE\bin\Debug\GRADE.pdb
+C:\Users\Dejik Concepts\RiderProjects\GRADE\GRADE\obj\Debug\GRADE.csprojAssemblyReference.cache
+C:\Users\Dejik Concepts\RiderProjects\GRADE\GRADE\obj\Debug\GRADE.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\RiderProjects\GRADE\GRADE\obj\Debug\GRADE.exe
+C:\Users\Dejik Concepts\RiderProjects\GRADE\GRADE\obj\Debug\GRADE.pdb

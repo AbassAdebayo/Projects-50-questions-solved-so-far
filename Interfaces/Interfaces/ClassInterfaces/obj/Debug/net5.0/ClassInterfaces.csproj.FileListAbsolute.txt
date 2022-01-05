@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\obj\Debug\net5.0\ClassInterfaces.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\obj\Debug\net5.0\ClassInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\obj\Debug\net5.0\ClassInterfaces.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\obj\Debug\net5.0\ClassInterfaces.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\obj\Debug\net5.0\ClassInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\bin\Debug\net5.0\ClassInterfaces.exe
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\bin\Debug\net5.0\ClassInterfaces.deps.json
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\bin\Debug\net5.0\ClassInterfaces.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\bin\Debug\net5.0\ClassInterfaces.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\bin\Debug\net5.0\ClassInterfaces.dll
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\bin\Debug\net5.0\ref\ClassInterfaces.dll
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\bin\Debug\net5.0\ClassInterfaces.pdb
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\obj\Debug\net5.0\ClassInterfaces.dll
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\obj\Debug\net5.0\ref\ClassInterfaces.dll
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\obj\Debug\net5.0\ClassInterfaces.pdb
+C:\Users\Dejik Concepts\Desktop\Interfaces\Interfaces\ClassInterfaces\obj\Debug\net5.0\ClassInterfaces.genruntimeconfig.cache

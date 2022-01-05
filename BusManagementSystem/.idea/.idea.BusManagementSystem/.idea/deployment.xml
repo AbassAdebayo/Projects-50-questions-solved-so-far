@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/DefinedCodes/Projects-50-questions-solved-so-far.git" uploadOnCheckin="cce8b2bc-d1f7-4a83-b4de-1d5489b16e9a" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="https://github.com/DefinedCodes/Projects-50-questions-solved-so-far.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/DefinedCodes/Projects-50-questions-solved-so-far.git" />
+  </component>
+</project>

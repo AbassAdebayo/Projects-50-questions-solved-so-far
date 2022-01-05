@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\bin\Debug\net5.0\Ass_18thOctConc2.exe
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\bin\Debug\net5.0\Ass_18thOctConc2.deps.json
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\bin\Debug\net5.0\Ass_18thOctConc2.runtimeconfig.json
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\bin\Debug\net5.0\Ass_18thOctConc2.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\bin\Debug\net5.0\Ass_18thOctConc2.dll
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\bin\Debug\net5.0\ref\Ass_18thOctConc2.dll
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\bin\Debug\net5.0\Ass_18thOctConc2.pdb
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\obj\Debug\net5.0\Ass_18thOctConc2.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\obj\Debug\net5.0\Ass_18thOctConc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\obj\Debug\net5.0\Ass_18thOctConc2.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\obj\Debug\net5.0\Ass_18thOctConc2.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\obj\Debug\net5.0\Ass_18thOctConc2.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\obj\Debug\net5.0\Ass_18thOctConc2.dll
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\obj\Debug\net5.0\ref\Ass_18thOctConc2.dll
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\obj\Debug\net5.0\Ass_18thOctConc2.pdb
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\Ass_18thOctConc2\obj\Debug\net5.0\Ass_18thOctConc2.genruntimeconfig.cache

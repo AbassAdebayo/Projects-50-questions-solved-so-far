@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\bin\Debug\net5.0\GWM.exe
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\bin\Debug\net5.0\GWM.deps.json
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\bin\Debug\net5.0\GWM.runtimeconfig.json
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\bin\Debug\net5.0\GWM.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\bin\Debug\net5.0\GWM.dll
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\bin\Debug\net5.0\ref\GWM.dll
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\bin\Debug\net5.0\GWM.pdb
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\obj\Debug\net5.0\GWM.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\obj\Debug\net5.0\GWM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\obj\Debug\net5.0\GWM.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\obj\Debug\net5.0\GWM.AssemblyInfo.cs
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\obj\Debug\net5.0\GWM.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\obj\Debug\net5.0\GWM.dll
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\obj\Debug\net5.0\ref\GWM.dll
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\obj\Debug\net5.0\GWM.pdb
+C:\Users\Dejik Concepts\RiderProjects\GWM\GWM\obj\Debug\net5.0\GWM.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\bin\Debug\net5.0\maths.exe
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\bin\Debug\net5.0\maths.deps.json
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\bin\Debug\net5.0\maths.runtimeconfig.json
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\bin\Debug\net5.0\maths.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\bin\Debug\net5.0\maths.dll
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\bin\Debug\net5.0\ref\maths.dll
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\bin\Debug\net5.0\maths.pdb
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\obj\Debug\net5.0\maths.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\obj\Debug\net5.0\maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\obj\Debug\net5.0\maths.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\obj\Debug\net5.0\maths.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\obj\Debug\net5.0\maths.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\obj\Debug\net5.0\maths.dll
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\obj\Debug\net5.0\ref\maths.dll
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\obj\Debug\net5.0\maths.pdb
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\maths\obj\Debug\net5.0\maths.genruntimeconfig.cache

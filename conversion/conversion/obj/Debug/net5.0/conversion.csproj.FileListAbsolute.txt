@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\bin\Debug\net5.0\conversion.exe
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\bin\Debug\net5.0\conversion.deps.json
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\bin\Debug\net5.0\conversion.runtimeconfig.json
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\bin\Debug\net5.0\conversion.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\bin\Debug\net5.0\conversion.dll
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\bin\Debug\net5.0\ref\conversion.dll
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\bin\Debug\net5.0\conversion.pdb
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\obj\Debug\net5.0\conversion.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\obj\Debug\net5.0\conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\obj\Debug\net5.0\conversion.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\obj\Debug\net5.0\conversion.AssemblyInfo.cs
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\obj\Debug\net5.0\conversion.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\obj\Debug\net5.0\conversion.dll
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\obj\Debug\net5.0\ref\conversion.dll
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\obj\Debug\net5.0\conversion.pdb
+C:\Users\Dejik Concepts\RiderProjects\conversion\conversion\obj\Debug\net5.0\conversion.genruntimeconfig.cache

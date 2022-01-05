@@ -1,0 +1,5 @@
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\user\obj\Debug\net5.0\user.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\user\obj\Debug\net5.0\user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\user\obj\Debug\net5.0\user.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\user\obj\Debug\net5.0\user.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Documents\DCCodeWorks\user\obj\Debug\net5.0\user.csproj.CoreCompileInputs.cache

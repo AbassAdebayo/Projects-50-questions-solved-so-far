@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\bin\Debug\net5.0\Question1_FirstAndLastPosition.exe
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\bin\Debug\net5.0\Question1_FirstAndLastPosition.deps.json
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\bin\Debug\net5.0\Question1_FirstAndLastPosition.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\bin\Debug\net5.0\Question1_FirstAndLastPosition.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\bin\Debug\net5.0\Question1_FirstAndLastPosition.dll
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\bin\Debug\net5.0\ref\Question1_FirstAndLastPosition.dll
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\bin\Debug\net5.0\Question1_FirstAndLastPosition.pdb
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\obj\Debug\net5.0\Question1_FirstAndLastPosition.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\obj\Debug\net5.0\Question1_FirstAndLastPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\obj\Debug\net5.0\Question1_FirstAndLastPosition.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\obj\Debug\net5.0\Question1_FirstAndLastPosition.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\obj\Debug\net5.0\Question1_FirstAndLastPosition.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\obj\Debug\net5.0\Question1_FirstAndLastPosition.dll
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\obj\Debug\net5.0\ref\Question1_FirstAndLastPosition.dll
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\obj\Debug\net5.0\Question1_FirstAndLastPosition.pdb
+C:\Users\Dejik Concepts\Desktop\Test\CodeChallenge24thDec21\Q.1\Question1_FirstAndLastPosition\obj\Debug\net5.0\Question1_FirstAndLastPosition.genruntimeconfig.cache

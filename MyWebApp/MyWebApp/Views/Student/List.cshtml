@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Student>
+
+<table border="1 px solid black">
+        
+    <tr bgcolor="#2f4f4f">
+        <th>Student Name</th>
+        <th>Student Age</th>
+        <th>Student Class</th>
+    </tr>
+    @foreach (var item in @Model)
+    {
+    <tr align="center">
+        <td>@item.Name</td>
+        <td>@item.Age</td>
+        <td>@item.Class</td>
+    </tr>
+    }
+</table>
+
+
+
+
+
+    
+    
+                                  
+                               

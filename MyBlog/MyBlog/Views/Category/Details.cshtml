@@ -1,0 +1,21 @@
+﻿@model MyBlog.Entities.Category
+
+<dl class="row">
+<dt class="col-sm-2">
+    Name:
+</dt>
+    <dd class="col-sm-10">
+        @Model.CategoryName
+    </dd>
+    
+    <dt class="col-sm-2">
+        Text:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Description
+    </dd>
+    
+    
+</dl>
+
+<button style="background-color:darkblue;"><a asp-action="Index">Back to List</a></button>

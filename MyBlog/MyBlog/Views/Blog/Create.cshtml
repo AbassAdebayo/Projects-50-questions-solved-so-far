@@ -1,0 +1,47 @@
+﻿@model MyBlog.DTOS.CreateBlogRequestModel
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class=" card col-md-6">
+            <div class="card-body ">
+                <div class="bg-light">
+                    <h1 class="tagcolor" style="color:mediumblue">Create</h1>
+                    <p class="tagcolor" style="color:mediumblue">Please add your blog.</p>
+                    <hr class="tagcolor" style="color:mediumblue">
+
+                </div>
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-row">
+                        <div class="form-group col-sm-6">
+                            <label asp-for="Url" class="control-label"></label>
+                            <a><input asp-for="Url" placeholder="https://example.com" class="form-control" /></a>
+                            <span asp-validation-for="Url" class="text-danger"></span>
+                        </div>
+                        
+                         <div class="col-md-6" style="margin-top: 20px; font-size: larger; font-weight: bold; color: darkcyan">
+                             <label class="control-label">Categories</label>
+                             <select asp-for="Categories" class="form-control" asp-items="ViewBag.Categories" multiple required>
+                                 <option value="">--Select Category--</option>
+                             </select>
+                             </div>
+                    </div>
+                        
+                    <div class="form-group ">
+                        <input href="#myModal" type="submit" value="Submit" class="btn btn-success trigger-btn col-sm-12" data-toggle="modal" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

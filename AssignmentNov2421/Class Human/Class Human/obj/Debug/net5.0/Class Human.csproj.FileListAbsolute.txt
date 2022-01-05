@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\bin\Debug\net5.0\Class Human.exe
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\bin\Debug\net5.0\Class Human.deps.json
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\bin\Debug\net5.0\Class Human.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\bin\Debug\net5.0\Class Human.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\bin\Debug\net5.0\Class Human.dll
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\bin\Debug\net5.0\ref\Class Human.dll
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\bin\Debug\net5.0\Class Human.pdb
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\obj\Debug\net5.0\Class Human.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\obj\Debug\net5.0\Class Human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\obj\Debug\net5.0\Class Human.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\obj\Debug\net5.0\Class Human.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\obj\Debug\net5.0\Class Human.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\obj\Debug\net5.0\Class Human.dll
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\obj\Debug\net5.0\ref\Class Human.dll
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\obj\Debug\net5.0\Class Human.pdb
+C:\Users\Dejik Concepts\Desktop\AssignmentNov2421\Class Human\Class Human\obj\Debug\net5.0\Class Human.genruntimeconfig.cache

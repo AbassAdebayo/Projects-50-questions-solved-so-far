@@ -1,0 +1,5 @@
+C:\Users\Dejik Concepts\Desktop\Indexers, Iterator & Enumerator\obj\Debug\net5.0\Indexers, Iterator & Enumerator.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\Indexers, Iterator & Enumerator\obj\Debug\net5.0\Indexers, Iterator & Enumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\Indexers, Iterator & Enumerator\obj\Debug\net5.0\Indexers, Iterator & Enumerator.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\Indexers, Iterator & Enumerator\obj\Debug\net5.0\Indexers, Iterator & Enumerator.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\Indexers, Iterator & Enumerator\obj\Debug\net5.0\Indexers, Iterator & Enumerator.csproj.CoreCompileInputs.cache

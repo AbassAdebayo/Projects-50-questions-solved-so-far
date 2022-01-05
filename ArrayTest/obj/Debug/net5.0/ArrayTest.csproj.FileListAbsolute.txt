@@ -1,0 +1,16 @@
+C:\Users\nurudeen\source\repos\ArrayTest\bin\Debug\net5.0\ArrayTest.exe
+C:\Users\nurudeen\source\repos\ArrayTest\bin\Debug\net5.0\ArrayTest.deps.json
+C:\Users\nurudeen\source\repos\ArrayTest\bin\Debug\net5.0\ArrayTest.runtimeconfig.json
+C:\Users\nurudeen\source\repos\ArrayTest\bin\Debug\net5.0\ArrayTest.runtimeconfig.dev.json
+C:\Users\nurudeen\source\repos\ArrayTest\bin\Debug\net5.0\ArrayTest.dll
+C:\Users\nurudeen\source\repos\ArrayTest\bin\Debug\net5.0\ref\ArrayTest.dll
+C:\Users\nurudeen\source\repos\ArrayTest\bin\Debug\net5.0\ArrayTest.pdb
+C:\Users\nurudeen\source\repos\ArrayTest\obj\Debug\net5.0\ArrayTest.csprojAssemblyReference.cache
+C:\Users\nurudeen\source\repos\ArrayTest\obj\Debug\net5.0\ArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurudeen\source\repos\ArrayTest\obj\Debug\net5.0\ArrayTest.AssemblyInfoInputs.cache
+C:\Users\nurudeen\source\repos\ArrayTest\obj\Debug\net5.0\ArrayTest.AssemblyInfo.cs
+C:\Users\nurudeen\source\repos\ArrayTest\obj\Debug\net5.0\ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\nurudeen\source\repos\ArrayTest\obj\Debug\net5.0\ArrayTest.dll
+C:\Users\nurudeen\source\repos\ArrayTest\obj\Debug\net5.0\ref\ArrayTest.dll
+C:\Users\nurudeen\source\repos\ArrayTest\obj\Debug\net5.0\ArrayTest.pdb
+C:\Users\nurudeen\source\repos\ArrayTest\obj\Debug\net5.0\ArrayTest.genruntimeconfig.cache

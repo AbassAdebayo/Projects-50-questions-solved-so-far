@@ -1,0 +1,16 @@
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\bin\Debug\net5.0\MyDelegate.exe
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\bin\Debug\net5.0\MyDelegate.deps.json
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\bin\Debug\net5.0\MyDelegate.runtimeconfig.json
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\bin\Debug\net5.0\MyDelegate.runtimeconfig.dev.json
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\bin\Debug\net5.0\MyDelegate.dll
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\bin\Debug\net5.0\ref\MyDelegate.dll
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\bin\Debug\net5.0\MyDelegate.pdb
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\obj\Debug\net5.0\MyDelegate.csproj.AssemblyReference.cache
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\obj\Debug\net5.0\MyDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\obj\Debug\net5.0\MyDelegate.AssemblyInfoInputs.cache
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\obj\Debug\net5.0\MyDelegate.AssemblyInfo.cs
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\obj\Debug\net5.0\MyDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\obj\Debug\net5.0\MyDelegate.dll
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\obj\Debug\net5.0\ref\MyDelegate.dll
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\obj\Debug\net5.0\MyDelegate.pdb
+C:\Users\Dejik Concepts\Desktop\Test\MyDelegate\MyDelegate\obj\Debug\net5.0\MyDelegate.genruntimeconfig.cache
